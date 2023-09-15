@@ -15,4 +15,3 @@ Arslan Butt {
 }
 ```
 * Linkedin [engrarslanbutt](https://www.linkedin.com/in/engrarslanbutt/)
-* Email engr.arslanbutt@gmail.com <a href="mailto:someone@yoursite.com"></a> 
