@@ -3,12 +3,11 @@
 ##  I am Husband, Father, and Developer :innocent:
 - :bowtie: I'm currently working with the [BeesApps](https://www.beesapps.com/)
 - :seedling: I'm currently learning everything :rofl:
-- 🚀 2021 Goal: Contribute to opensource projects
+- 🚀 Goal: Contribute to opensource projects
 - :man_dancing: Fun fact: Play table tennis, travel :beach_umbrella: and food 🍕
 ```
 Arslan Butt {
   "job":      "Software Developer",
-  "birthday": "1984-10-25",
   "country":  "France",
   "city":     "Paris",
   "stack":    ["PHP", "MySQL", "HTML", "CSS", "JS", "..."],
