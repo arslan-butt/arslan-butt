@@ -6,12 +6,19 @@
 - 🚀 Goal: Contribute to opensource projects
 - :man_dancing: Fun fact: Play table tennis, travel :beach_umbrella: and food 🍕
 ```
-Arslan Butt {
-  "job":      "Software Developer",
-  "country":  "France",
-  "city":     "Paris",
-  "stack":    ["PHP", "Laravel", "Vue.js", "Nuxt.js", "React.js", "Next.js", "MySql", "CI/CD"],
-  "interest": ["Clean Code", "Latest Technologies", "Ai"]
-}
+const arslanButt = {
+  name: "Arslan Butt",
+  job: "Software Developer",
+  location: {
+    country: "France",
+    city: "Paris"
+  },
+  techStack: [
+    "PHP", "Laravel", "Vue.js", "Nuxt.js", 
+    "React.js", "Next.js", "MySQL", "CI/CD"
+  ],
+  interests: ["Clean Code", "Latest Technologies", "AI"]
+};
+
 ```
 * Linkedin [engrarslanbutt](https://www.linkedin.com/in/engrarslanbutt/)
