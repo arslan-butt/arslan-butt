@@ -10,8 +10,8 @@ Arslan Butt {
   "job":      "Software Developer",
   "country":  "France",
   "city":     "Paris",
-  "stack":    ["PHP", "MySQL", "HTML", "CSS", "JS", "..."],
-  "interest": ["Clean Code", "Latest Technologies", "Linux", "..."]
+  "stack":    ["PHP", "Laravel", "Vue.js", "Nuxt.js", "React.js", "Next.js", "MySql", "CI/CD"],
+  "interest": ["Clean Code", "Latest Technologies", "Ai"]
 }
 ```
 * Linkedin [engrarslanbutt](https://www.linkedin.com/in/engrarslanbutt/)
