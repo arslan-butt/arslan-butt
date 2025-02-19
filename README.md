@@ -1,12 +1,14 @@
-# Hi, I am Arslan  👋
+# 👋 Hey there, I’m Arslan!
 
-##  I am Husband, Father, and Developer :innocent:
-- :bowtie: I'm currently working with the [BeesApps](https://www.beesapps.com/)
-- :seedling: I'm currently learning everything :rofl:
-- 🚀 Goal: Contribute to opensource projects
-- :man_dancing: Fun fact: Play table tennis, travel :beach_umbrella: and food 🍕
-```
-const arslanButt = {
+👨‍👩‍👧‍👦 **Husband, Father & Passionate Developer** 🚀  
+
+💼 **Building cool things at:** [BeesApps](https://www.beesapps.com/)  
+🌱 **Always learning:** New tech & best practices 🤓  
+💡 **Goal:** Contribute to open-source & make an impact  
+🏓 **Fun fact:** I love table tennis, traveling 🏖️ & great food 🍕  
+
+```js
+const aboutMe = {
   name: "Arslan Butt",
   job: "Software Developer",
   location: {
@@ -15,7 +17,7 @@ const arslanButt = {
   },
   techStack: [
     "PHP", "Laravel", "Vue.js", "Nuxt.js", 
-    "React.js", "Next.js", "MySQL", "CI/CD"
+    "React.js", "Next.js", "MySQL", "CI/CD", "TailwindCSS"
   ],
   interests: ["Clean Code", "Latest Technologies", "AI"]
 };
